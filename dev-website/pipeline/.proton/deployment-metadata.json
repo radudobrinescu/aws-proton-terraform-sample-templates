@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "b0678024-9977-4ab7-a738-83ac41b516c8",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:eu-central-1:802019299867:service/dev-website/pipeline",
+    "templateArn" : "arn:aws:proton:eu-central-1:802019299867:service-template/tf-ecs-fargate-lb-service-cicd-codepipeline",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
